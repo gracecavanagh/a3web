@@ -11,6 +11,16 @@
     background-position: center;
 
 } 
+
+.aboutus { 
+	background-image: url("");
+	background-size: cover;
+	margin: 0 auto;
+	background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
+
+} 
 /* end of Kayla */ 
 
 /**** Alex's section for the Interactive Map page : To be modified ***/
