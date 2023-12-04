@@ -11,7 +11,8 @@
     background-position: center;
 
 } 
-
+/*  Aboutus image from Kayla
+ source of image: https://www.rawpixel.com/image/3299643/free-photo-image-cc0-creative-commons */
 .aboutus { 
 	background-image: url("/images/dawn.jpg");
 	background-size: cover;
