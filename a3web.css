@@ -39,11 +39,19 @@
   border: none;
 }
 
-.container {
+.mapframe {
 	position: relative;
 	overflow: hidden;
 	width: 100%;
 	padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+  }
+
+  .testimonial {
+	border: 2px solid #ccc;
+	background-color: #FAEBD7;
+	border-radius: 5px;
+	padding: 16px;
+	margin: 16px 0;
   }
 
 /* end of Kayla */ 
