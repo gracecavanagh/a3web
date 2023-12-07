@@ -67,6 +67,10 @@ body {
   }
  /* Adding a border around the km to miles converter, to add definition to it. Border from: https://www.w3schools.com/css/css_border.asp */ 
 .milesconverter { border: groove;
+				display: inline-block;
+				position: relative;
+				padding: 1%;
+				left: 25%;
 }
 
 
