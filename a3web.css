@@ -103,9 +103,10 @@ body {
 .teamtext {
 	overflow: auto;
 	border: hidden;
+	text-align: center;
 	position: center;
 	margin: 30px 0 30px;
-	font-size: 0.5em;
+	font-size: 20px;
 }
 
 /* Display the columns below each other instead of side by side on small screens */
