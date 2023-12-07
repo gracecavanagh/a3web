@@ -33,7 +33,7 @@
             </div>
         </nav> 
         <!-- Header same as main page without company name-->
-        <header class= "py-5 bg-image-full mapheader">
+        <header class= "py-5 bg-image-full headerimage">
             <div class="text-center my-5">
                 <img class="img-fluid rounded-circle mb-4" src="images/mercury1.png" alt="image of murcury, FutureGuard logo" />
             </div>
@@ -62,7 +62,12 @@
                                         <p class="lead"> Being a company based on the metric system, we design our maps in Kilometer. Are you unsure of distance outputted in Kilometers? Use the tool below to convert kilometers to miles.</p>
                                         
                                        <div class="milesconverter"> <input id="inputKilometers" type="number" placeholder="Kilometers" oninput="LengthConverter(this.value)" onchange="LengthConverter(this.value)">
-                                        <script src="myScript.js"></script>
+                                        
+                                            <script>
+                                                function LengthConverter(valNum) {
+                                                    document.getElementById("outputMiles").innerHTML=valNum/1.621317;
+                                                }
+                                            </script>
                                             <p> Miles:<span id="outputMiles"></span></p> </div>
             
                                         <p class="mb-0">If you would like us to create your map and supporting outputs using the imperial system, please let us know during your initial consultation.</p>
