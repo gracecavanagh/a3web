@@ -76,7 +76,7 @@ body {
 
 /* end of Kayla */ 
 
-/* Teams page - to be edited more by Grace https://www.w3schools.com/howto/howto_css_team.asphttps://www.w3schools.com/howto/howto_css_team.asp */
+/* Teams page - to be edited more by Grace https://www.w3schools.com/howto/howto_css_team.asp */
 /* Three columns side by side */
 .column {
   float: left;
@@ -93,6 +93,7 @@ body {
 	background-attachment: scroll;
 	background-position: center;
 
+/* used this to create a shadow behind title on team page https://www.w3schools.com/css/css_text_shadow.asp */
 .teamtitle {
 	color: black;
 	text-shadow: 2px 2px 4px #000000:
@@ -101,7 +102,8 @@ body {
 	overflow: auto;
 	border: hidden;
 	position: center;
-	margin: 30px 0 30px;
+	margin: 30px 0 30px
+	font-size: 1.5em;
 }
 
 /* Display the columns below each other instead of side by side on small screens */
