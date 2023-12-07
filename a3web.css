@@ -35,7 +35,7 @@ body {
  
 }
 
- /* Source of testimonial box idea: https://www.w3schools.com/howto/howto_css_testimonials.asp */ 
+ /* Source of testimonial box and offerings box idea: https://www.w3schools.com/howto/howto_css_testimonials.asp */ 
   .testimonial {
 	border: 2px solid #000000;
 	background-color: #FAEBD7;
@@ -50,13 +50,13 @@ body {
   }
   
   .offering {
-	border: 2px solid #000000;
+	border: 1px solid #000000;
 	background-color: #FAEBD7;
 	border-radius: 5px;
 	padding: 16px;
 	margin: 16px 0;
   }
-  
+
   /*Map Project Page Specific */
 
   /*  Map header image.
