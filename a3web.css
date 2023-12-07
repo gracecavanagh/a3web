@@ -135,5 +135,9 @@ body {
 }
 
 .button:hover {
-  background-color: #555;
+	background-color: #555;
+}
+
+.footer .separate {
+	height: 142px
 }
