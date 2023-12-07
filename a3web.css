@@ -92,11 +92,12 @@ body {
 	background-repeat: no-repeat;
 	background-attachment: scroll;
 	background-position: center;
+}
 
 /* used this to create a shadow behind title on team page https://www.w3schools.com/css/css_text_shadow.asp */
 .teamtitle {
 	color: black;
-	text-shadow: 2px 2px 4px #000000:
+	text-shadow: 2px 2px 4px #000000;
 }
 .teamtext {
 	overflow: auto;
