@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
  /* Header image from Kayla
- source of image: https://www.rawpixel.com/image/3297487/free-photo-image-morocco-dune-africa */
+ source of image: https://www.rawpixel.com/image/3297487/free-photo-image-morocco-dune-africa. Class itself pulled from different bootstrap classes */
 .headerimage { 
 	background-image: url("images/rollingsands.jpg");
 	background-size: cover;
@@ -12,7 +12,7 @@
 
 } 
 /*  Aboutus image from Kayla
- source of image: https://www.rawpixel.com/image/3299643/free-photo-image-cc0-creative-commons */
+ source of image: https://www.rawpixel.com/image/3299643/free-photo-image-cc0-creative-commons. About us class idea to match headerimage  */
 .aboutus { 
 	background-image: url("images/dawn.jpg");
 	background-size: cover;
@@ -26,14 +26,14 @@
 	border: hidden; 
 
 }
-/* Source: https://www.w3schools.com/css/css_background.asp. color taken from w3schools color map */ 
+/* Background color source: https://www.w3schools.com/css/css_background.asp. color taken from w3schools color map */ 
 
 body { 
 	background-color: #FFFFF0;
  
 }
 
-/*source of css for next two https://www.w3schools.com/howto/howto_css_responsive_iframes.asp for the inserted Google map*/
+/*source of css for next two https://www.w3schools.com/howto/howto_css_responsive_iframes.asp for the inserted Google map. Google map itself created by Kayla*/
 .responsive-iframe {
   position: absolute;
   top: 0;
@@ -65,9 +65,11 @@ body {
 	margin-right: 20px;
 	border-radius: 70%;
   }
- 
+ /* Adding a border around the km to miles converter, to add definition to it. Border from: https://www.w3schools.com/css/css_border.asp */ 
 .milesconverter { border: groove;
 }
+
+
 /* end of Kayla */ 
 
 
