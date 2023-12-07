@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
- /* Header image from Kayla
+ /* Header image for main page
  source of image: https://www.rawpixel.com/image/3297487/free-photo-image-morocco-dune-africa. Class itself pulled from different bootstrap classes */
 .headerimage { 
 	background-image: url("images/rollingsands.jpg");
@@ -15,6 +15,16 @@
  source of image: https://www.rawpixel.com/image/3299643/free-photo-image-cc0-creative-commons. About us class idea to match headerimage  */
 .aboutus { 
 	background-image: url("images/dawn.jpg");
+	background-size: cover;
+	margin: 0 auto;
+	background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
+
+} 
+
+.mapheader { 
+	background-image: url("images/worldBW.jpg");
 	background-size: cover;
 	margin: 0 auto;
 	background-repeat: no-repeat;
