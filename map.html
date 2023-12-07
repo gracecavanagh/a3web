@@ -62,12 +62,7 @@
                                         <p class="lead"> Being a company based on the metric system, we design our maps in Kilometer. Are you unsure of distance outputted in Kilometers? Use the tool below to convert kilometers to miles.</p>
                                         
                                        <div class="milesconverter"> <input id="inputKilometers" type="number" placeholder="Kilometers" oninput="LengthConverter(this.value)" onchange="LengthConverter(this.value)">
-                                        
-                                            <script>
-                                                function LengthConverter(valNum) {
-                                                    document.getElementById("outputMiles").innerHTML=valNum/1.621317;
-                                                }
-                                            </script>
+                                        <script src="myScript.js"></script>
                                             <p> Miles:<span id="outputMiles"></span></p> </div>
             
                                         <p class="mb-0">If you would like us to create your map and supporting outputs using the imperial system, please let us know during your initial consultation.</p>
