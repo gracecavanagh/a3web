@@ -84,7 +84,13 @@ body {
 				padding: 1%;
 				left: 25%;
 }
-
+.offering {
+	border: 2px solid #000000;
+	background-color: #FFF8DC;
+	border-radius: 5px;
+	padding: 16px;
+	margin: 16px 0;
+  }
 
 /* end of Kayla */ 
 
