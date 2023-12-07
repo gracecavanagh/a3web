@@ -94,7 +94,8 @@ body {
 	background-position: center;
 
 .teamtitle {
-	text-shadow: 2px 2px;
+	color: black;
+	text-shadow: 2px 2px 4px #000000:
 }
 
 /* Display the columns below each other instead of side by side on small screens */
