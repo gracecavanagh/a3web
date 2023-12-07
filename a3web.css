@@ -1,5 +1,5 @@
 @charset "UTF-8";
-
+/* Start of Kayla  */
  /* Header image for main page
  source of image: https://www.rawpixel.com/image/3297487/free-photo-image-morocco-dune-africa. Class itself pulled from different bootstrap classes */
 .headerimage { 
@@ -21,18 +21,8 @@
     background-attachment: scroll;
     background-position: center;
 
-} /*  Map header image.
-source of image:https://www.rawpixel.com/image/440262/free-photo-image-map-world-background. About us class idea to match headerimage  */
-
-.mapheader { 
-	background-image: url("images/worldBW.jpg");
-	background-size: cover;
-	margin: 0 auto;
-	background-repeat: no-repeat;
-    background-attachment: scroll;
-    background-position: center;
-
 } 
+
 .title { overflow: auto;
 	border: hidden; 
 
@@ -44,25 +34,6 @@ body {
 	background-color: #F7F7F7;
  
 }
-
-/*source of css for next two https://www.w3schools.com/howto/howto_css_responsive_iframes.asp for the inserted Google map. Google map itself created by Kayla*/
-.responsive-iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  bottom: 0;
-  right: 0;
-  width: 100%;
-  height: 100%;
-  border: none;
-}
-
-.mapframe {
-	position: relative;
-	overflow: hidden;
-	width: 100%;
-	padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
-  }
 
  /* Source of testimonial box idea: https://www.w3schools.com/howto/howto_css_testimonials.asp */ 
   .testimonial {
@@ -77,20 +48,55 @@ body {
 	margin-right: 20px;
 	border-radius: 70%;
   }
- /* Adding a border around the km to miles converter, to add definition to it. Border from: https://www.w3schools.com/css/css_border.asp */ 
-.milesconverter { border: groove;
-				display: inline-block;
-				position: relative;
-				padding: 1%;
-				left: 25%;
-}
-.offering {
+  
+  .offering {
 	border: 2px solid #000000;
-	background-color: #FFF8DC;
+	background-color: #FAEBD7;
 	border-radius: 5px;
 	padding: 16px;
 	margin: 16px 0;
   }
+  
+  /*Map Project Page Specific */
+
+  /*  Map header image.
+source of image:https://www.rawpixel.com/image/440262/free-photo-image-map-world-background. About us class idea to match headerimage  */
+
+.mapheader { 
+	background-image: url("images/worldBW.jpg");
+	background-size: cover;
+	margin: 0 auto;
+	background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
+
+} 
+  /*source of css for next two https://www.w3schools.com/howto/howto_css_responsive_iframes.asp for the inserted Google map. Google map itself created by Kayla*/
+.responsive-iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	width: 100%;
+	height: 100%;
+	border: none;
+  }
+  
+  .mapframe {
+	  position: relative;
+	  overflow: hidden;
+	  width: 100%;
+	  padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+	}
+
+ /* Adding a border around the km to miles converter, to add definition to it. Border from: https://www.w3schools.com/css/css_border.asp */ 
+  .milesconverter { border: groove;
+				display: inline-block;
+				position: relative;
+				padding: 1%;
+				left: 25%;
+	}
 
 /* end of Kayla */ 
 
