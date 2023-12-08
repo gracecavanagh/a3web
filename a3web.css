@@ -184,6 +184,18 @@ source of image:https://www.rawpixel.com/image/440262/free-photo-image-map-world
 	background-color: #555;
 }
 
-.footerbarrier {
-	height: 142px;
+.footerwrap {
+	margin: auto;
+	padding: 10px, 10px, 10 px, 10px;
+	width: 50%;
+	position: center;
+}
+#footerlink {
+	background-color: #f44336;
+	color: white;
+	padding: 14px 25px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	width:auto;
 }
