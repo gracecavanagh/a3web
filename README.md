@@ -2,8 +2,27 @@
 # GEOM101 - Group 12
 ## Grace Cavanagh and Kayla O'Neill
 ## Assignment 3: Team Website
-## Plan:
 
+
+## Week 11- Using VS Code and Git 
+- Alex
+- Lucy
+- Kayla
+- Grace
+
+## Week 11- Providing inital plan 
+-Done, edited after for more accuracy 
+
+## Week 12- Template demo for Shawn
+-Grace
+-Kayla
+-Lucy
+
+## Week 13- Check in with Shawn during Lab
+-Grace 
+-Kayla 
+
+## Plan:
 - Create new main repository: Grace as main
 - Create copy of reposity: Kayla to match
 - Navbar: Lucy started, Kayla started editing but Grace did most of the work. 
@@ -24,7 +43,7 @@ Errors: Both Kayla and Grace
 ## Page 3: Teams Page: Grace
 - Header Image
 - Team cards
-- - Content
+- Content
 
 ## Page 4: Map Page: Kayla
 - Header Image
