@@ -4,30 +4,30 @@
 ## Assignment 3: Team Website
 ## Plan:
 
-Create new main repository: Grace as main
-Create copy of reposity: Kayla to match
-Navbar: Lucy started, Kayla started editing but Grace did most of the work. 
-Footer: Grace
+- Create new main repository: Grace as main
+- Create copy of reposity: Kayla to match
+- Navbar: Lucy started, Kayla started editing but Grace did most of the work. 
+- Footer: Grace
 
 (Pages 1 and 2 split between Grace and Kayla) 
 All corrisponding css for relevant sections was done by the person who was responsible for that section
 Errors: Both Kayla and Grace
 
 ## Pages 1: Home 
-Header Image: Kayla 
-    virtual border for nicer re-size
-    New Images folder 
+- Header Image: Kayla 
+    - New Images folder 
 
 ## Page 2: About (on bottom of the home page)
-Header Image: Kayla
-Testimonials: Kayla 
+- Header Image: Kayla
+- Testimonials: Kayla 
 
 ## Page 3: Teams Page: Grace
-Header Image
-Team cards 
+- Header Image
+- Team cards
+- - Content
 
 ## Page 4: Map Page: Kayla
-Header Image
-Interactive Google maps
-Jacascript element here- KM to miles converter 
-Content
+- Header Image
+- Interactive Google maps
+- Jacascript element here- KM to miles converter, styling it
+- Content
