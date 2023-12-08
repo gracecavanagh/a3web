@@ -4,7 +4,7 @@
 ## Assignment 3: Team Website
 
 
-## Week 11- Using VS Code and Git 
+## Week 11- Using VS Code and Git demo for Shawn in lab 
 - Alex
 - Lucy
 - Kayla
@@ -21,10 +21,11 @@
 ## Week 13- Check in with Shawn during Lab
 - Kayla
 - Grace
+
 ## Plan:
 - Create new main repository: Grace as main
 - Create copy of reposity: Kayla to match
-- Navbar: Lucy started, Kayla started editing but Grace did most of the work. 
+- Navbar: Lucy started, but Grace took over finished it. 
 - Footer: Grace
 
 (Pages 1 and 2 split between Grace and Kayla) 
