@@ -140,7 +140,7 @@ h1, h2, h3, p, li {
   margin-bottom: 16px;
   padding: 0 45px 0 45px;
 }
-
+/* source of image: https://www.rawpixel.com/image/440152/free-photo-image-hurricane-nasa-storm */
 .teamheaderimage {
 	background-image: url("images/hurricane1.jpg");
 	background-size: cover;
