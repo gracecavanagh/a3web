@@ -235,7 +235,10 @@ h1, h2, h3, p, li {
 	width: auto;
 }
 
+.footertext {
+	padding-top: 20px;
+}
 .footerbox {
-	margin: 20px;
+	margin: 20px 20px 20px 20px;
 	width: 100%;
 }
