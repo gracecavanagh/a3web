@@ -85,6 +85,10 @@ source of image:https://www.rawpixel.com/image/440262/free-photo-image-map-world
 	text-align: center;
 }
 
+#hireus {
+	text-align: center;
+}
+
 .mapheader { 
 	background-image: url("images/worldBW.png");
 	background-size: cover;
