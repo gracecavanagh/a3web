@@ -217,9 +217,9 @@ source of image:https://www.rawpixel.com/image/440262/free-photo-image-map-world
 	width: 100%;
 	position: center;
 }
-/* used w3 schools for help with making buttons as footer links https://www.w3schools.com/css/tryit.asp?filename=trycss_link_advanced */
+/* used w3 schools for help with making buttons as footer links https://www.w3schools.com/css/tryit.asp?filename=trycss_link_advanced, color is neon fuchsia from https://html-color.codes/pink */
 .footerlink {
-	background-color: #e4007c;
+	background-color: #fe4164;
 	color: white;
 	padding: 25px 25px;
 	text-align: center;
