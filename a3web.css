@@ -150,7 +150,7 @@ h1, h2, h3, p, li {
 	background-position: center;
 }
 
-/* used this to create a black shadow behind title on team page so it was visible against the hurricane picture https://www.w3schools.com/css/css_text_shadow.asp */
+/* used this to create a black shadow behind title on team page so it was visible against the hurricane picture and later also on the index page - https://www.w3schools.com/css/css_text_shadow.asp */
 .teamtitle {
 	color: black;
 	text-shadow: 2px 2px 4px #000000;
