@@ -198,8 +198,8 @@ h1, h2, h3, p, li {
   clear: both;
   display: table;
 }
-/* color is Rich Maroon from https://html-color.codes/pink */
-.title {
+/* used in team subtitles and links - color is Rich Maroon from https://html-color.codes/pink */
+.subtitle {
   color: #b03060;
 }
 /* pink contact us buttons on team page with links going to nothing - rich maroon from https://html-color.codes/pink */
