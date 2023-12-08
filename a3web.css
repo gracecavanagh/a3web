@@ -3,9 +3,18 @@
 h1, h2, h3, p, li {
 	font-family: "Bahnschrift", sans-serif;
 }
+#aboutcenter {
+	text-align: center;
+}
 #center {
 	text-align: center;
 }
+
+#valueborder {
+	border-style: inset;
+	border-color: red;
+}
+
 /* Start of Kayla  */
  /* Header image for main page
  source of image: https://www.rawpixel.com/image/3297487/free-photo-image-morocco-dune-africa. Class itself pulled from different bootstrap classes */
