@@ -35,10 +35,12 @@ Errors: Both Kayla and Grace
 ## Pages 1: Home 
 - Header Image: Kayla 
     - New Images folder 
+- Services: Kayla 
 
 ## Page 2: About (on bottom of the home page)
 - Header Image: Kayla
 - Testimonials: Kayla 
+- Values: Grace 
 
 ## Page 3: Teams Page: Grace
 - Header Image
