@@ -1,7 +1,7 @@
 # a3web
 # GEOM101 - Group 12
 ## Grace Cavanagh and Kayla O'Neill
-## Assignment 3: Team Website
+## Assignment 3: Group Website
 
 
 ## Week 11- Using VS Code and Git demo for Shawn in lab 
