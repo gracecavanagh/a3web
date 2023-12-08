@@ -1,9 +1,11 @@
 # a3web
+# GEOM101 - Group 12
+## Grace Cavanagh and Kayla O'Neill
+## Assignment 3: Team Website
+## Plan:
 
-Plan:
-
-Create new main repository: Grace
-Create copy of reposity: Kayla 
+Create new main repository: Grace as main
+Create copy of reposity: Kayla to match
 Navbar: Lucy started, Kayla started editing but Grace did most of the work. 
 Footer: Grace
 
@@ -11,20 +13,20 @@ Footer: Grace
 All corrisponding css for relevant sections was done by the person who was responsible for that section
 Errors: Both Kayla and Grace
 
-Pages 1: Home 
+## Pages 1: Home 
 Header Image: Kayla 
     virtual border for nicer re-size
     New Images folder 
 
-Page 2: About (on bottom of the home page)
+## Page 2: About (on bottom of the home page)
 Header Image: Kayla
 Testimonials: Kayla 
 
-Page 3: Teams Page: Grace
+## Page 3: Teams Page: Grace
 Header Image
 Team cards 
 
-Page 4: Map Page: Kayla
+## Page 4: Map Page: Kayla
 Header Image
 Interactive Google maps
 Jacascript element here- KM to miles converter 
