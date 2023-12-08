@@ -80,6 +80,11 @@ source of image:https://www.rawpixel.com/image/440262/free-photo-image-map-world
 #mapcenter {
 	text-align: center;
 }
+
+#kmtom {
+	text-align: center;
+}
+
 .mapheader { 
 	background-image: url("images/worldBW.png");
 	background-size: cover;
@@ -87,7 +92,6 @@ source of image:https://www.rawpixel.com/image/440262/free-photo-image-map-world
 	background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: center;
-
 } 
   /*source of css for next two https://www.w3schools.com/howto/howto_css_responsive_iframes.asp for the inserted Google map. Google map itself created by Kayla*/
 .responsive-iframe {
