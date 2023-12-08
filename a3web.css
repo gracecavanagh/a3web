@@ -3,6 +3,11 @@
 h1, h2, h3, p, li {
 	font-family: "Bahnschrift", sans-serif;
 }
+
+li .white {
+	color: white;
+}
+
 #aboutcenter {
 	text-align: center;
 }
