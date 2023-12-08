@@ -209,15 +209,16 @@ source of image:https://www.rawpixel.com/image/440262/free-photo-image-map-world
 .footerwrap {
 	margin: auto;
 	padding: 10px, 10px, 10 px, 10px;
-	width: 50%;
+	width: 100%;
 	position: center;
 }
+/* used w3 schools for help with making buttons as footer links https://www.w3schools.com/css/tryit.asp?filename=trycss_link_advanced */
 .footerlink {
-	background-color: #f44336;
+	background-color: #e4007c;
 	color: white;
 	padding: 14px 25px;
 	text-align: center;
 	text-decoration: none;
 	display: inline-block;
-	width:auto;
+	width: auto;
 }
