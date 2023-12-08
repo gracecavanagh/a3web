@@ -234,7 +234,7 @@ h1, h2, h3, p, li {
 	display: inline-block;
 	width: auto;
 }
-/* trying to fix whichever setting pushed the link buttons to the left - not sure what made that happen */
+/* trying to fix whichever setting pushed the link buttons to the left - not sure what made that happen. this made it respond poorly on a small screen, Grace's fault */
 #footercenter {
 	padding-inline-start: 350px;
 }
