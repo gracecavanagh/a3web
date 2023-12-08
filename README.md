@@ -14,14 +14,13 @@
 -Done, edited after for more accuracy 
 
 ## Week 12- Template demo for Shawn
--Grace
--Kayla
--Lucy
+- Lucy
+- Kayla
+- Grace
 
 ## Week 13- Check in with Shawn during Lab
--Grace 
--Kayla 
-
+- Kayla
+- Grace
 ## Plan:
 - Create new main repository: Grace as main
 - Create copy of reposity: Kayla to match
