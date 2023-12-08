@@ -198,9 +198,9 @@ h1, h2, h3, p, li {
   clear: both;
   display: table;
 }
-
+/* color is Rich Maroon from https://html-color.codes/pink */
 .title {
-  color: grey;
+  color: #b03060;
 }
 /* pink contact us buttons on team page with links going to nothing - rich maroon from https://html-color.codes/pink */
 .button {
