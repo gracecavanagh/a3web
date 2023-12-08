@@ -208,7 +208,7 @@ source of image:https://www.rawpixel.com/image/440262/free-photo-image-map-world
 	width: 50%;
 	position: center;
 }
-#footerlink {
+.footerlink {
 	background-color: #f44336;
 	color: white;
 	padding: 14px 25px;
